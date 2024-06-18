@@ -1,9 +1,51 @@
-# Build Modern Next 14 Server Side App with Server Actions, Infinite Scroll & Framer Motion Animations
+# Modern Next 14 Server Side App with Server Actions, Infinite Scroll & Framer Motion Animations
 
-![Anime Website](https://i.ibb.co/MG1nbqt/YT-Thumbnails-2.png)
+This project is a modern web application built using Next.js 14, featuring server-side actions, infinite scroll functionality, and smooth animations with Framer Motion.
 
-### [🌟 Become a top 1% Next.js 14 developer in only one course](https://jsmastery.pro/next14)
-### [🚀 Land your dream programming job in 6 months](https://jsmastery.pro/masterclass)
-### [📙 Free Three.js Cheatsheet](https://resource.jsmastery.pro/threejs-cheatsheet)
-### [🌐 Best Hosting for Your Websites](https://hostinger.com/javascript10)
+## Features
 
+- **Next.js 14**: Utilizes the latest version of Next.js for server-side rendering and static site generation.
+- **Server Actions**: Implements efficient server-side actions for data handling and business logic.
+- **Infinite Scroll**: Provides an infinite scroll mechanism for seamless content loading.
+- **Framer Motion Animations**: Adds visually appealing animations and transitions using Framer Motion.
+
+## Installation
+
+To get started with the project, follow these steps:
+
+1. **Clone the repository**:
+
+   ```sh
+   git clone https://github.com/yourusername/your-new-repo.git
+   cd your-new-repo
+   ```
+
+2. **Install dependencies**:
+
+   ```sh
+   npm install
+   ```
+
+3. **Start the development server**:
+
+   ```sh
+    npm run dev
+   ```
+
+4. **Build for production**:
+
+   ```sh
+    npm run build
+   ```
+
+5. **Run the production server**:
+    ```sh
+    npm start
+    ```
+
+## Acknowledgements
+
+- [Next.js](https://nextjs.org/)
+- [Framer Motion](https://www.framer.com/motion/)
+- [Infinite Scroll](https://infinite-scroll.com/)
+- [JavaScript Mastery](https://www.youtube.com/c/JavaScriptMastery) - for the tutorial and guidance
